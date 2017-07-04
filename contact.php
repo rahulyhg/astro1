@@ -1,21 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+ 
 </head>
 <body>
 
-<div class="container-fluid">
-<?php include "header.html" ?>
-<br>
-<br>
-<br>
-<br>
-<h2>Phone Number:</h2>
-<h2>Address:</h2>
+<div>
+<?php include "header.php" ?>
+<h2>Phone Number:9833839020</h2>
+<h2>Address:A 12 Vaikunth CHS,Nahurgoan,Mulund West,Mumbai-80</h2>
 </div>
 </body>
 </html>
