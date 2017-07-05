@@ -6,11 +6,11 @@
   <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
-<body>
+<body bgcolor="#E6E6FA">
 <img class="img-circle" src="images/dpic.jpg">
 
 <div class="container">
-  <h3>Introduction</h3>
+  
   <p>Hello This is Vijaykumar Soshte,a Astrologer with more than 15 years of practice.Bring your problems to me I will solve them in a jiffy.</p>
 
 <p>Intrepreted in all correctness,a knowledge of astrology does afford mental strength to the feeble and the weak-minded,solace to the depressed,peace to the anxious and worried and steadiness to those who are wavering and vacillating in mind.It is a common experience that when troubles come,they come in battalions and the afflicted person gets solace from this knowledge that time is not far off when his or her trouble would cease to exist.</p>

@@ -1,6 +1,8 @@
 .img-circle {
 	display: block;
+    border: 6px solid #404040;
         border-radius: 50%;
         margin:auto;
+       
 
 }
